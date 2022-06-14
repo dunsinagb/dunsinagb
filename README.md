@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OluNgr
+- 👋 Hi, I’m @Oluwadunsin, aka 'Olu'
 - 👀 I’m interested in story telling through the use of quantitative data (both financial and non-financial)
 - 🌱 I’m currently learning Tableau, PowerBi, SQL and R.
 - 💞️ I’m looking to collaborate on projects in various fields.
