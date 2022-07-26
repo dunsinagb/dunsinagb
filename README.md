@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oluwadunsin, aka 'Olu'
+- 👋 Hi, I’m Olu.
 - 👀 I am obsessed with data and how it can help you make better decisions.
 - 🌱 I have experience in SQL, R and Tableau.
 - 💞️ I’m looking to collaborate on projects in various fields.
