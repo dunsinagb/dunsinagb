@@ -15,4 +15,4 @@ Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relation
 
 ### 📕 How to Connect With Me and Find My Work
 - [LinkedIn](https://www.linkedin.com/in/dunsinagb/)
-- [Linktree](Linktr.ee/dunsinagb)
+- [Linktree](https://linktr.ee/dunsinagb)
