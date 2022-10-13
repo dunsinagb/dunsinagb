@@ -20,7 +20,6 @@
 
 - I also enjoy the challenge of finding new and creative ways to use data to improve decision making.
 
-⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
