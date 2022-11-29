@@ -3,7 +3,7 @@
 </div>  
 
 ### **<div align="center">Welcome to my GitHub repository!👋🏾</div>** 
-                         I'm Oluwadunsin Agbolabori, a self-taught data analyst from 🇳🇬 Nigeria. 
+                         I'm Oluwadunsin Agbolabori, a community-taught data analyst from 🇳🇬 Nigeria. 
 
 
 💠 About Me 💠
