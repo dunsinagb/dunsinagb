@@ -2,9 +2,10 @@ Hi there! 👨🏾‍💻🎉
 
 These repositories contain content related to my favorite topics, including:
 
+- Data science and analytics
 - Interactive storytelling
 - Graphic design
-- Data science and analytics
+
 
 Best regards,
 Olu
