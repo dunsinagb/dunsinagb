@@ -1,11 +1,71 @@
-Hi there! 👨🏾‍💻🎉
-
-These repositories contain content related to my favorite topics, including:
-
-- Data science and analytics
-- Interactive storytelling
-- Graphic design
+<p align="center">
+  <img src="A_digital_header_image_of_Olu's_GitHub_profile_pre.png" alt="Olu Tech Stack Banner" />
+</p>
 
 
-Best regards,
-Olu
+# 👋 Hi, I'm Olu
+
+**Data Analytics • AI Builder • Indie Hacker**
+
+I build **AI + Data tools** that turn ideas into real products and dashboards that drive decisions.
+
+---
+
+## ⚡ My Tech Stack
+
+### 📊 Data & Analytics
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 AI & Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🎨 Design & Workflow
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-0A0A0A?style=for-the-badge&logo=zapier&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 🚀 What I'm Building
+
+| Project | Focus |
+|--------|-------|
+| **Interruptd** | Behavioral analytics & pattern interruption |
+| **TimeFill** | Time visualization & life metrics |
+| **CollegeCuts** | Data tracking & education analytics |
+| **BizLens** | AI-powered business dashboards |
+
+---
+
+## 🧠 My Builder Philosophy
+
+> Ship fast. Improve publicly. Let iteration win.
+
+---
+
+## 📈 GitHub Activity
+
+![Olu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect
+
+If you're into:
+- AI tools  
+- Data analytics  
+- Indie hacking  
+- Building real projects  
+
+We’re on the same journey.
+
+⭐ Always building. Always improving.
