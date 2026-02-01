@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="A_digital_header_image_of_Olu's_GitHub_profile_pre.png" alt="Olu Tech Stack Banner" />
-</p>
-
-
 # 👋 Hi, I'm Olu
 
 **Data Analytics • AI Builder • Indie Hacker**
@@ -52,9 +47,9 @@ I build **AI + Data tools** that turn ideas into real products and dashboards th
 
 ## 📈 GitHub Activity
 
-![Olu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![Olu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunsinagb&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dunsinagb&layout=compact&theme=tokyonight)
 
 ---
 
