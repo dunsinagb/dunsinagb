@@ -47,9 +47,9 @@ I build **AI + Data tools** that turn ideas into real products and dashboards th
 
 ## 📈 GitHub Activity
 
-![Olu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunsinagb&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dunsinagb&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dunsinagb&layout=compact&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dunsinagb&theme=tokyonight)
 
 ---
 
