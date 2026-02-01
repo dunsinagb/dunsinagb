@@ -28,14 +28,14 @@ I build **AI + Data tools** that turn ideas into real products and dashboards th
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Products I'm Building
 
-| Project | Focus |
-|--------|-------|
-| **Interruptd** | Behavioral analytics & pattern interruption |
-| **TimeFill** | Time visualization & life metrics |
-| **CollegeCuts** | Data tracking & education analytics |
-| **BizLens** | AI-powered business dashboards |
+| Product | What It Does | Status |
+|---------|--------------|--------|
+| [**TimeFill**](https://apps.apple.com/app/id6753778108) | Visual countdown app that rethinks how we see time | 🟢 In Production |
+| [**College Cuts Tracker**](https://college-cuts.com) | Tracks academic program cuts across institutions | 🟢 Live • Updated Weekly |
+| [**Fibr AI**](https://fibai.com) | AI-powered insights & automation tool | 🟡 Work in Progress |
+| [**Interruptly**](https://interruptly.life) | Anti-habit tracker based on pattern interruption | 🟠 Beta Soon |
 
 ---
 
