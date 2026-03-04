@@ -32,10 +32,10 @@ I build **AI + Data tools** that turn ideas into real products and dashboards th
 
 | Product | What It Does | Status |
 |---------|--------------|--------|
+| [**Interruptly**](https://interruptly.life) | Anti-habit tracker based on pattern interruption | 🟢 In Production |
 | [**Time Fill**](https://timefill.app) | Visual countdown app that rethinks how we see time | 🟢 In Production |
-| [**College Cuts Tracker**](https://college-cuts.com) | Tracks academic program cuts across institutions | 🟢 Live • Updated Weekly |
+| [**College Cuts Tracker**](https://college-cuts.com) | Tracks academic program actions across USAinstitutions | 🟢 Live • Updated Regularly |
 | [**Fibr AI**](https://fibai.com) | AI-powered insights & automation tool | 🟡 Work in Progress |
-| [**Interruptly**](https://interruptly.life) | Anti-habit tracker based on pattern interruption | 🟠 Beta Soon |
 
 ---
 
