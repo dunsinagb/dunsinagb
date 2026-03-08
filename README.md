@@ -34,9 +34,9 @@ I build **AI + Data tools** that turn ideas into real products and dashboards th
 |---------|--------------|--------|
 | [**Interruptly**](https://interruptly.life) | Anti-habit tracker based on pattern interruption | 🟢 In Production |
 | [**Time Fill**](https://timefill.app) | Visual countdown app that rethinks how we see time | 🟢 In Production |
-| [**College Cuts Tracker**](https://college-cuts.com) | Tracks academic program actions across USAinstitutions | 🟢 Live • Updated Regularly |
+| [**College Cuts Tracker**](https://college-cuts.com) | Tracks academic program actions across USAinstitutions | 🟢 Live |
 | [**DataVizTok**](https://dataviztok.vercel.app) | A TikTok-style interface for discovering data visualization dashboards | 🟢 Live |
-| [**Fibr AI**](https://fibai.com) | AI-powered insights & automation tool | 🟡 Work in Progress |
+| [**FiberAI**](https://fibai.com) | AI-powered hemorrhoid & constipation management app | 🟡 Work in Progress |
 
 ---
 
